@@ -1,4 +1,4 @@
-package src.cast;
+package dio.cast;
 
 public class Funcionario{
 }

@@ -1,4 +1,4 @@
-package src.cast;
+package dio.cast;
 
 public class Main {
     public static void main(String[] args) {

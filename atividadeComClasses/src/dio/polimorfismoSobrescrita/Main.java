@@ -1,4 +1,4 @@
-package src.polimorfismoSobrescrita;
+package dio.polimorfismoSobrescrita;
 
 public class Main {
     public static void main(String[] args) {

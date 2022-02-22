@@ -1,4 +1,4 @@
-package src.associacao;
+package dio.associacao;
 
 public class Disciplina {
 

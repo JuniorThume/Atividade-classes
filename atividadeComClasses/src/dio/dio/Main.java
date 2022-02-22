@@ -1,4 +1,4 @@
-package src.dio;
+package dio.dio;
 
 public class Main {
     public static void main(String[] args) {

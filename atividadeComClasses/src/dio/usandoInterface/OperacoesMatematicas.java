@@ -1,19 +1,12 @@
 package dio.usandoInterface;
 
-public class OperacoesMatematicas {
+public interface OperacoesMatematicas {
 
-    double adicao(int valor1, int valor2){
-        return valor1 + valor2;
-    }
-    double subtracao(int valor1, int valor2){
-        return valor1 - valor2;
-    }
-    double multiplicacao(int valor1, int valor2){
-        return valor1 * valor2;
-    }
-    double divisao(int valor1, int valor2){
-        return valor1 / valor2;
-    }
+    void soma(double operando1, double operando2);
 
+    void subtracao(double operando1, double operando2);
 
+    void divisao(double operando1, double operando2);
+
+    void multiplicacao(double operando1, double operando2);
 }
